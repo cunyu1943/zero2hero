@@ -1,3 +1,6 @@
 ## 目录
 
 -   [揭开 Maven 神秘的面纱，来看看它是个啥](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247490170&idx=1&sn=ff112d6d51763cae388faa37f812e143&chksm=e8786e0cdf0fe71a2d696cbb4e4ad6b73cce6916ad8462488780ded4a853b49d37ebce303248&token=1653121756&lang=zh_CN#rd)
+-   [Maven 常用命令，你得会！](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247490197&idx=1&sn=e9331cf39f9bc9c6152c008a6199935b&chksm=e8786ee3df0fe7f59c30d3128a32211c4284a66df03c33470a702403d590ad550f8d08b1adaf&token=1653121756&lang=zh_CN#rd)
+-   [用 IDEA 创建 Maven 版 HelloWorld！](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247490240&idx=1&sn=fac6aa95f26c87f2a0cd122625991f2f&chksm=e8786eb6df0fe7a0c814d453e3a6b5ac5e4fce816b39ff36413aa5e0f02ac14896411897f70d&token=1653121756&lang=zh_CN#rd)
+-   [Maven 虽好用，但遇到依赖冲突该咋整？](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247490254&idx=1&sn=c328403870e9ed3ec345d61de2be7a4e&chksm=e8786eb8df0fe7aec5e1b70adc904b1679427ca59bddafde2e79107d6986ff7d31e9b1d321e3&token=1653121756&lang=zh_CN#rd)
