@@ -63,11 +63,10 @@
 
 <a id="contributor"></a>
 
-```
-<a href="https://github.com/huihut/interview/graphs/contributors"><img src="https://opencollective.com/interview/contributors.svg?button=false" /></a>
-```
+[![](https://avatars0.githubusercontent.com/u/22308895?s=460&u=4cc5bf82eef28356c0692fbd3bd796826f062a9c&v=4)]()
 
 ## 💰 支持赞助
+
 <a id="support"></a>
 
 ## ⚠ License
