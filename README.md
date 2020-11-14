@@ -63,7 +63,17 @@
 
 <a id="contributor"></a>
 
-[![](https://opencollective.com/zero2hero/contributors.svg)](https://github.com/cunyu1943/zero2hero/graphs/contributors)
+<a href="https://github.com/cunyu1943">  
+    <img src="https://avatars0.githubusercontent.com/u/22308895?s=460&u=4cc5bf82eef28356c0692fbd3bd796826f062a9c&v=4" width="45px">
+</a>
+<a href="https://github.com/MrSchnappi">  
+    <img src="https://avatars3.githubusercontent.com/u/18361019?s=460&u=88abd720ec8300d532a1e0dab69f8a18dfde31f4&v=4" width="45px">
+</a>
+<a href="https://github.com/onefish-star">  
+    <img src="https://avatars2.githubusercontent.com/u/55148402?s=400&v=4" width="45px">
+</a>
+
+
 
 ## 💰 支持赞助
 
