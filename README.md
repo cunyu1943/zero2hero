@@ -60,7 +60,12 @@
 <a id="book"></a>
 
 ## 👬 贡献者
+
 <a id="contributor"></a>
+
+```
+<a href="https://github.com/huihut/interview/graphs/contributors"><img src="https://opencollective.com/interview/contributors.svg?button=false" /></a>
+```
 
 ## 💰 支持赞助
 <a id="support"></a>
