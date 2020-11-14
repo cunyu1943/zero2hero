@@ -63,7 +63,7 @@
 
 <a id="contributor"></a>
 
-[![](https://avatars0.githubusercontent.com/u/22308895?s=460&u=4cc5bf82eef28356c0692fbd3bd796826f062a9c&v=4)]()
+[![](https://opencollective.com/zero2hero/contributors.svg)](https://github.com/cunyu1943/zero2hero/graphs/contributors)
 
 ## 💰 支持赞助
 
