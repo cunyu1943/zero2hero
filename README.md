@@ -6,7 +6,7 @@
 
 🔔 仓库内容如有错误或需要改进的地方，欢迎提交 issue 或 pr。由于水平有限，仓库中的知识点主要包括原创、读书笔记、书籍阅读笔记、博文等，非原创内容都尽量标明了原出处！对于还是有遗漏的部分，还请一定 issue 提出！🙏🙏🙏
 
-❗ 转载请注明出处，不得用于商业目的。
+❗ 本仓库遵循 CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享） 协议，转载请注明出处，不得用于商业目的。
 
 ## 📇 目录
 
@@ -63,7 +63,7 @@
 
 <a id="contributor"></a>
 
-<a href="https://github.com/cunyu1943">  
+[<a href="https://github.com/cunyu1943">  
     <img src="https://avatars0.githubusercontent.com/u/22308895?s=460&u=4cc5bf82eef28356c0692fbd3bd796826f062a9c&v=4" width="45px">
 </a>
 <a href="https://github.com/MrSchnappi">  
@@ -71,7 +71,7 @@
 </a>
 <a href="https://github.com/onefish-star">  
     <img src="https://avatars2.githubusercontent.com/u/55148402?s=400&v=4" width="45px">
-</a>
+</a>](https://github.com/cunyu1943/zero2hero/graphs/contributors)
 
 
 
@@ -81,3 +81,7 @@
 
 ## ⚠ License
 <a id="license"></a>
+
+本仓库遵循 CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享） 协议，转载请注明出处，不得用于商业目的。
+
+[![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://github.com/cunyu1943/zero2hero/blob/master/LICENSE)
