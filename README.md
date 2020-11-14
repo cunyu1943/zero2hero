@@ -63,7 +63,7 @@
 
 <a id="contributor"></a>
 
-[<a href="https://github.com/cunyu1943">  
+<a href="https://github.com/cunyu1943">  
     <img src="https://avatars0.githubusercontent.com/u/22308895?s=460&u=4cc5bf82eef28356c0692fbd3bd796826f062a9c&v=4" width="45px">
 </a>
 <a href="https://github.com/MrSchnappi">  
@@ -71,7 +71,7 @@
 </a>
 <a href="https://github.com/onefish-star">  
     <img src="https://avatars2.githubusercontent.com/u/55148402?s=400&v=4" width="45px">
-</a>](https://github.com/cunyu1943/zero2hero/graphs/contributors)
+</a>
 
 
 
@@ -79,7 +79,14 @@
 
 <a id="support"></a>
 
+熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡，我们也是很开心的！
+
+| 微信                                                       | 支付宝                                                     |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+| ![](https://s1.ax1x.com/2020/07/08/UZflJH.png ':size=300') | ![](https://s1.ax1x.com/2020/07/08/UZf1Wd.png ':size=300') |
+
 ## ⚠ License
+
 <a id="license"></a>
 
 本仓库遵循 CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享） 协议，转载请注明出处，不得用于商业目的。
