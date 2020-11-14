@@ -68,8 +68,11 @@
 ### 🔧 软件使用
 
 -   [写给女朋友看的装系统教程之系统盘的制作（上）](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247491581&idx=1&sn=7809093a1a888fa3ee03673a05c3c604&chksm=e8786b8bdf0fe29de4841d42634fd283b48eec9b255d5fa80b9cc35b0149f872a8d21e54756c#rd)
+-   [写给女朋友看的装系统教程之系统盘的制作（下）](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247491625&idx=1&sn=fc46bdcb475e2af9477a0aa5c8491db8&chksm=e87b945fdf0c1d493768efa64ce813407d3f6d5dfb35a28c77e0cc78c1e70128bb272bb7e993#rd)
+-   [写给女朋友看的系统安装教程（完结篇）](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247491748&idx=1&sn=bcfb44370c84f8e44cfdd7095dc2dce3&chksm=e87b94d2df0c1dc4b8170f435aa604f537d5dca16509f6b70b6038be61f4034a9e2698450e67#rd)
 
 ## 📚 书籍
+
 <a id="book"></a>
 
 ## 👬 贡献者
