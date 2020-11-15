@@ -166,3 +166,9 @@
 本仓库遵循 CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享） 协议，转载请注明出处，不得用于商业目的。
 
 [![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://github.com/cunyu1943/zero2hero/blob/main/LICENSE)
+
+## 🍋 特别致谢
+
+1.  [Typora](https://typora.io/)，所有文档均使用 Typora 编写；
+2.  [Mdnice](https://www.mdnice.com/)：Markdown 转微信格式；
+3.  [路过图床](https://imgchr.com/)：免费图床；
