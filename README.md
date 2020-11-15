@@ -2,11 +2,13 @@
 
 ## 📢 关于
 
-💯 本仓库主要面向 Java、C/C++ 技术方向学习者、校招求职者的一些基础知识总结，包括操作系统、计算机网络、数据结构、算法与刷题、数据库、语言、框架、程序库等知识以及面/笔试经验等信息！
+💯 本仓库主要面向 Java、C/C++ 技术方向学习者、校招求职者的一些基础知识总结，包括操作系统、计算机网络、数据结构、算法与刷题、数据库、语言、框架、程序库等知识以及面/笔试经验等信息，记录自己的技术生涯，希望我们都能从菜鸟进阶为大神！
 
 🔔 仓库内容如有错误或需要改进的地方，欢迎提交 issue 或 pr。由于水平有限，仓库中的知识点主要包括原创、读书笔记、书籍阅读笔记、博文等，非原创内容都尽量标明了原出处！对于还是有遗漏的部分，还请一定 issue 提出！🙏🙏🙏
 
 ❗ 本仓库遵循 CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享） 协议，转载请注明出处，不得用于商业目的。
+
+![](https://cdn.jsdelivr.net/gh/cunyu1943/image-hosting-for-blog/imguugai.log.png)
 
 ## 📇 目录
 
@@ -36,6 +38,7 @@
 <a id="network"></a>
 
 ##  〽️ 数据结构
+
 <a id="data-structure"></a>
 
 -   [数据结构之链表篇](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247490134&idx=1&sn=eb2c0a4e772bee7b86df973956b18f43&chksm=e8786e20df0fe736092ba9505353001d80ccc91c5691149ff995f65d95985da659931ba4cfab&token=1653121756&lang=zh_CN#rd)
@@ -50,7 +53,6 @@
 -   [有序数组重复元素去重的 3 中方法，你学废了么？](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247489424&idx=1&sn=07b3b008400b560c25d378d0c240f68e&chksm=e87863e6df0feaf00cda2b931c0f50feadb84e5c56e14ead18971355cae7651500a62626f06a&token=1653121756&lang=zh_CN#rd)
 -   [想拿高薪，数组的增删改查你咋能不会呢!](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247489413&idx=1&sn=a4e3525230e5311ed8ee630f91b2c067&chksm=e87863f3df0feae52bd1def275e7f86b8083afe0ef8bfd385a6e96e17b452f01bddebacd6396&token=1653121756&lang=zh_CN#rd)
 -   [高薪必备，二叉树的四种遍历！](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247491213&idx=1&sn=8d1d8f8a50ab35bcdcb745fc01dae798&chksm=e8786afbdf0fe3edda5d3122b9c92333c5487099608d1b04cc39353ebcd3d8cad11cd69fbd83&token=1653121756&lang=zh_CN#rd)
--   
 
 ## 💾 数据库
 
