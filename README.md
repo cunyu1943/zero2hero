@@ -123,6 +123,16 @@
 
 -   [错过这些学习电子书，你可能要多绕好多路！](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247487731&idx=2&sn=91b59967d7593f62c0f25fcf930d396e&chksm=e8786485df0fed930630edb1988b4b04272cd19b0e98f7e142847ee38e6c103506eab13f70a1#rd)
 
+## 📞 联系我们
+
+#### 📟 微信公众号
+
+>   名称：**村雨遥**，微信号：**cunyu1943**
+
+建议关注公众号 🤝🤝🤝，最新文章会优先发布到此处，此外也方便及时交流，也可以通过微信公众号后台添加我的个人微信！
+
+<img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" width="800px"></img>
+
 ## 👬 贡献者
 
 <a id="contributor"></a>
@@ -147,7 +157,7 @@
 
 | 微信                                                       | 支付宝                                                     |
 | ---------------------------------------------------------- | ---------------------------------------------------------- |
-| ![](https://s1.ax1x.com/2020/07/08/UZflJH.png ':size=150') | ![](https://s1.ax1x.com/2020/07/08/UZf1Wd.png ':size=150') |
+| <img src="https://s1.ax1x.com/2020/07/08/UZflJH.png" width="300px"></img>| <img src="https://s1.ax1x.com/2020/07/08/UZf1Wd.png" width="300px"></img> |
 
 ## ⚠ License
 
