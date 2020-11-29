@@ -37,6 +37,8 @@
 
 <a id="network"></a>
 
+-   [面试一问计算机网络全懵了？](https://t.1yb.co/azea)
+
 ##  〽️ 数据结构
 
 <a id="data-structure"></a>
@@ -80,10 +82,7 @@
 
 <a id="tools"></a>
 
-### 🕹 系统使用
-
-
-### 🔧 软件使用
+-   [连个系统都不会装，你好意思？](https://t.1yb.co/azpU)
 
 
 ## 📚 书籍
