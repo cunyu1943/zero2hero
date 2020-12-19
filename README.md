@@ -37,7 +37,7 @@
 
 <a id="计算机网络"></a>
 
--   [面试一问计算机网络全懵了？](https://t.1yb.co/azea)
+-   [面试一问计算机网络全懵了？](http://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247492166&idx=1&sn=3975a7025acb2206c86272040d8554ef&chksm=e87b9630df0c1f26432b7e2a8c0213d081896f335ab165f175c5eb3792bbfe169e6b364d4e9f#rd)
 
 ##  〽️ 数据结构
 
@@ -60,8 +60,9 @@
 
 <a id="java"></a>
 
--   [这份 Java 面试基础知识笔记看完，稳了！](https://t.1yb.co/ayLJ)
-
+1.  [Java 第一步，Hello World 来相助！](http://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247492425&idx=1&sn=00cee58c12d57b692ce90b99b769a59f&chksm=e87b973fdf0c1e29cdbee2e44fb6964cdf9d6e3ec04036c79614e0e77d8ed1f980f98f7d7e63#rd)
+2.  [这份Java面试基础知识笔记看完，稳了！](https://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247492118&idx=1&sn=15ccdbf81547c3328963fc717f44d395&chksm=e87b9660df0c1f76a81b0efdc98b0b2e54974596d62abe4dfb01e5c3fec61d182506e0f44d54&mpshare=1&scene=1&srcid=1219asENhTzUrEi2VwEdZ2ke&sharer_sharetime=1608377872324&sharer_shareid=05384bc3a7ed59aae99df757772eb216&key=adbad9c04326846003b3941ac8f3c50e153dbf9dfd8b8490446b4319b732e3fcdd14c46f21c191fff256e02da6af623e50316ffc9137081cee785cda291e18dfd9f05ee0bbe26b878c1f5d7407afafba072f44e69f5664f140796768269a5348b0d2701f7b2993574b09465b76660f9c9e729dfea4bc738ea44bdfe79e06af80&ascene=1&uin=NzYxMDA3MDEz&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AS4aPSeZy6XSlYIlSFGJX5c%3D&pass_ticket=IxO2j%2F%2B12pa%2F%2FfTjCZkC%2FPMaT3hMS0V7aGkDMGTKHEFJqGZVDD73idv4ZvpO3Sys&wx_header=0)
+3.  [Java 面试高频问题之 JVM](http://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247492392&idx=1&sn=588619907527902a33363a36583b9253&chksm=e87b975edf0c1e483fbadb95093c8f7fe55bae98e03d40d655813d09267daa2ac55439c0ec26#rd)
 
 ## ➕ C/C++
 
@@ -83,7 +84,9 @@
 
 <a id="工具"></a>
 
--   [连个系统都不会装，你好意思？](https://t.1yb.co/azpU)
+1.  [连个系统都不会装，你好意思？](http://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247492186&idx=1&sn=f5f51614b6d7de666f90aa7e4484f6d8&chksm=e87b962cdf0c1f3ae0889f530e7b8a6f95188f54eeb1d1773bed7c7568d0b302c4c58b6f885d#rd)
+2.  [女朋友问我，系统咋装呀？](http://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247492312&idx=1&sn=9f54f7858c147194a94ab2b981b36b26&chksm=e87b96aedf0c1fb8588e4d9be7f6f046ebbef5132aa5e8aed5468ad79b76edd766aa1732db5f#rd)
+3.  [论如何优雅地使用 Windows 10！](http://mp.weixin.qq.com/s?__biz=MzIyNTg2MjkzNw==&mid=2247492466&idx=1&sn=14b4b5ac56550a2898185f12b901904b&chksm=e87b9704df0c1e128d74005f4679104d94538563b78e0356655ea851599d414c32122e89d274#rd)
 
 ## 📚 资源分享
 
