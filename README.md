@@ -8,6 +8,12 @@
 
 ❗ 本仓库遵循 CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享） 协议，转载请注明出处，不得用于商业目的。
 
+
+
+💖 所有文章的目录如下：http://v3.processon.com/view/link/5f6eb161e401fd64b5dbdd2a
+
+
+
 ![](https://cdn.jsdelivr.net/gh/cunyu1943/image-hosting-for-blog/imguugai.log.png)
 
 ## 📇 目录
@@ -49,12 +55,24 @@
 
 <a id="算法"></a>
 
+### 💠 LeetCode 篇
+
+| 题号 | 题解                                                  | 难度 |
+| ---- | ----------------------------------------------------- | ---- |
+| 164  | [最大间距](https://cunyu1943.site/posts/2ad42dd0/)    | 困难 |
+| 454  | [四数相加 II](https://cunyu1943.site/posts/8ea35345/) | 中等 |
+
+### 🔰 剑指 Offer 篇
+
+| 题号 | 题解                                                      | 难度 |
+| ---- | --------------------------------------------------------- | ---- |
+| 03   | [数组中重复的数字](https://cunyu1943.site/posts/7e9ab8a/) | 简单 |
+
 
 
 ## 💾 数据库
 
 <a id="数据库"></a>
-
 
 ## ☕ Java
 
@@ -102,8 +120,6 @@
 
 建议关注公众号 🤝🤝🤝，最新文章会优先发布到此处，此外也方便及时交流，也可以通过微信公众号后台添加我的个人微信！
 
-此外，所有原创文章的最新版本都有对应 PDF 下载，关注公众号后免费获取！
-
 <img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" width="800px"></img>
 
 ## 👬 贡献者
@@ -115,9 +131,6 @@
 </a>
 <a href="https://github.com/MrSchnappi">  
     <img src="https://avatars3.githubusercontent.com/u/18361019?s=460&u=88abd720ec8300d532a1e0dab69f8a18dfde31f4&v=4" width="45px">
-</a>
-<a href="https://github.com/onefish-star">  
-    <img src="https://avatars2.githubusercontent.com/u/55148402?s=400&v=4" width="45px">
 </a>
 
 
