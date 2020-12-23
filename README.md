@@ -101,15 +101,23 @@
 
 
 
-## 📞 联系我们
+## 📞 联系我
 
-#### 📟 微信公众号
+### 📟 微信公众号
 
 >   名称：**村雨遥**，微信号：**cunyu1943**
 
 建议关注公众号 🤝🤝🤝，最新文章会优先发布到此处，此外也方便及时交流，也可以通过微信公众号后台添加我的个人微信！
 
 <img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" width="800px"></img>
+
+###  🍟其他平台
+
+-   📌 **Github@村雨遥**：https://github.com/cunyu1943
+-   📌 **知乎@村雨遥**：https://www.zhihu.com/people/cunyu1943
+-   📌 **CSDN@村雨遥**：https://blog.csdn.net/github_39655029
+-   📌 **掘金@村雨遥**：https://juejin.cn/user/747323637904519
+-   📌 **牛客@村雨遥**：https://www.nowcoder.com/profile/806383223
 
 ## 👬 贡献者
 
