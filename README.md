@@ -14,7 +14,7 @@
 
 
 
-<img src="cs-docs.png" style="zoom:50%;" />
+<img src ="cs-docs.png" align="middle">
 
 ---
 
