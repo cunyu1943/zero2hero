@@ -12,7 +12,7 @@
 
 
 
-<center><img src ="cs-docs.png" align="middle"></center>
+<div align="center"><img src ="cs-docs.png"></div>
 
 ---
 
