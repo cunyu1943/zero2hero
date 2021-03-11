@@ -52,13 +52,13 @@
 
 建议关注公众号 🤝🤝🤝，最新文章会优先发布到此处，此外也方便及时交流，也可以通过微信公众号后台添加我的个人微信！
 
-<img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" width="800px" style="zoom: 67%;" ></img>
+<div align="center"><img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" width="800px" style="zoom: 67%;" ></img></div>
 
 ###   💬 个人微信
 
 >   昵称：**K**，微信号：**cunyu1024**
 
-<img src="wechat.gif" style="zoom:50%;" />
+<div align="center"><img src="wechat.gif" style="zoom:50%;" /></div>
 
 ###  🍟其他平台
 
