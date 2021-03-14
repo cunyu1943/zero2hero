@@ -85,7 +85,7 @@
 
 建议关注公众号 🤝🤝🤝，最新文章会优先发布到此处，此外也方便及时交流，也可以通过微信公众号后台添加我的个人微信！
 
-<div align="center"><img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" width="800px" style="zoom: 67%;" ></img></div>
+<div align="center">![](https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png)</img></div>
 
 ###   💬 个人微信
 
