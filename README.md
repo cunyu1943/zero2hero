@@ -109,13 +109,11 @@
 
 | 微信                                                         | 支付宝                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://s1.ax1x.com/2020/07/08/UZflJH.png" width="300px" style="zoom:50%;" ></img> | <img src="https://s1.ax1x.com/2020/07/08/UZf1Wd.png" width="300px" style="zoom:50%;" ></img> |
+| <img src="https://s1.ax1x.com/2020/07/08/UZflJH.png" style="zoom:50%;" ></img> | <img src="https://s1.ax1x.com/2020/07/08/UZf1Wd.png" style="zoom:50%;" ></img> |
 
-## ⚠ License
+## :copyright: License
 
 本仓库遵循 CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享） 协议，转载请注明出处，不得用于商业目的。
-
-[![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://github.com/cunyu1943/zero2hero/blob/main/LICENSE)
 
 # 🍋 特别致谢
 
