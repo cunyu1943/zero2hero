@@ -88,7 +88,7 @@
 
 >   昵称：**K**，微信号：**cunyu1024**
 
-<div align="center"><img src="wechat.gif" style="zoom:50%;" /></div>
+<div align="center"><img src="./source/imgs/wechat.gif" style="zoom:50%;" /></div>
 
 ##  🍟其他平台
 
