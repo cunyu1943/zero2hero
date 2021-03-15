@@ -12,3 +12,4 @@
     -   [amazing-books](https://github.com/cunyu1943/amazing-books)
     -   [amazing-websites](https://github.com/cunyu1943/amazing-websites)
     -   [amazing-softwares](https://github.com/cunyu1943/amazing-softwares)
+-   [友情链接](docs/about/friends.md)
