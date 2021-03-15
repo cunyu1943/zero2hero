@@ -17,12 +17,12 @@
 
 ## 教女朋友学 Java
 
--    [搭建 Java 开发环境](https://t.1yb.co/ixeP)
--   [玩转 IDEA](https://t.1yb.co/iDSv)
+-    [搭建 Java 开发环境](docs/Java/教女朋友学Java/1.HelloWorld.md)
+-   [玩转 IDEA](docs/Java/教女朋友学Java/2.使用IDEA进行Java开发.md)
 
 ## 知识点总结
 
--   [Java 基础知识总结](https://t.1yb.co/iDTW)
+-   Java [基础知识总结]()
 -   [JVM 面试必知必会](https://t.1yb.co/ixfd)
 -   [Spring 面试知识点总结](https://t.1yb.co/ixdi)
 
@@ -70,9 +70,9 @@
 
 
 
-[x] [怒肝通宵，导航页上线！](https://t.1yb.co/ixc6)
-[x] [导航页升级，用起来更爽了！](https://t.1yb.co/ixc1)
-[x ] [看了这三个 Github 项目，让你的效率翻倍](https://t.1yb.co/ixch)
+-   [怒肝通宵，导航页上线！](https://t.1yb.co/ixc6)
+-   [导航页升级，用起来更爽了！](https://t.1yb.co/ixc1)
+-   [看了这三个 Github 项目，让你的效率翻倍](https://t.1yb.co/ixch)
 
 # 📞 联系我
 
