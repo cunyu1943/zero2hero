@@ -70,10 +70,9 @@
 
 
 
--   [x] [怒肝通宵，导航页上线！](https://t.1yb.co/ixc6)
-
--   [x] [导航页升级，用起来更爽了！](https://t.1yb.co/ixc1)
--   [x] [看了这三个 Github 项目，让你的效率翻倍](https://t.1yb.co/ixch)
+[x] [怒肝通宵，导航页上线！](https://t.1yb.co/ixc6)
+[x] [导航页升级，用起来更爽了！](https://t.1yb.co/ixc1)
+[x ] [看了这三个 Github 项目，让你的效率翻倍](https://t.1yb.co/ixch)
 
 # 📞 联系我
 
