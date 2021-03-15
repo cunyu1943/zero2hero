@@ -1,8 +1,6 @@
-# Headline
+> # 关于
 
-<<<<<<< HEAD
-> An awesome project.
-=======
+
 💯 本仓库主要用于记录自己学习过程中的思考，并力图构建一个完善的知识体系，便于后续复习巩固！
 
 🙏 由于个人水平有限，仓库中的知识点主要包括个人原创、读书笔记、书籍阅读笔记、博客、视频等，非原创内容都尽量标明了原出处！对于还是有遗漏的部分或发现文章错误及排版问题，还请一定 issue 或 pr 提出！
@@ -17,9 +15,8 @@
 
 <div align="center"><img src ="cs-docs.png"></div>
 
----
 
-## ☕ Java
+> # ☕ Java
 
 ### 教女朋友学 Java
 
@@ -32,7 +29,7 @@
 -   [JVM 面试必知必会](https://t.1yb.co/ixfd)
 -   [Spring 面试知识点总结](https://t.1yb.co/ixdi)
 
-## 🐍 Python
+> # 🐍 Python
 
 ### 交女朋友学 Python
 
