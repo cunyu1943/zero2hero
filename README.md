@@ -1,4 +1,4 @@
-# 关于
+# 👇 关于
 
 
 💯 本仓库主要用于记录自己学习过程中的思考，并力图构建一个完善的知识体系，便于后续复习巩固！
@@ -15,12 +15,12 @@
 
 # ☕ Java
 
-## 教女朋友学 Java
+## 🐶 教女朋友学 Java
 
 -    [搭建 Java 开发环境](docs/Java/教女朋友学Java/1.HelloWorld.md)
 -   [玩转 IDEA](docs/Java/教女朋友学Java/2.使用IDEA进行Java开发.md)
 
-## 知识点总结
+## 🐱 知识点总结
 
 -   Java [基础知识总结]()
 -   [JVM 面试必知必会](https://t.1yb.co/ixfd)
@@ -28,7 +28,7 @@
 
 # 🐍 Python
 
-## 教女朋友学 Python
+## 🍏 教女朋友学 Python
 
 -   [Python 简介](https://t.1yb.co/ixaI)
 -   [玩转 Pycharm](https://t.1yb.co/ixaD)
@@ -42,29 +42,29 @@
 
 -   [MySQL 面试知识点总结](https://t.1yb.co/ixcH)
 
-## 🛠 工具教程
+# 🔨 工具教程
 
-## 博客篇
+## 🚗 博客篇
 
 -   [从 0 到 1 搭建自己的 Halo 博客](https://t.1yb.co/ixet)
 
-## 软件篇
+## 🚕 软件篇
 
 -   [十分钟入门 Markdown 写作](https://t.1yb.co/ixcL)
 -   [利用 Github 搭建自己的免费图床](https://t.1yb.co/ixcs)
 -   [Gitee + Typora，搭建自己的专属图床](https://t.1yb.co/ixcA)
 
-## 系统篇
+## 🚙 系统篇
 
-### Windows
+### 🚌 Windows
 
 -   [如何制作 U 盘启动盘](https://t.1yb.co/iDUy)
 -   [手把手教你安装 Windows 系统](https://t.1yb.co/iDUf)
 -   [如何优雅的使用 Windows 10](https://t.1yb.co/iDV1)
 
-### macOS
+### 🚎 macOS
 
-### Linux
+### 🚓 Linux
 
 # ✨ 瞎折腾
 
@@ -112,7 +112,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="https://s1.ax1x.com/2020/07/08/UZflJH.png" style="zoom:50%;" ></img> | <img src="https://s1.ax1x.com/2020/07/08/UZf1Wd.png" style="zoom:50%;" ></img> |
 
-## :copyright: License
+# :copyright: License
 
 本仓库遵循 CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享） 协议，转载请注明出处，不得用于商业目的。
 
@@ -121,3 +121,4 @@
 1.  [Typora](https://typora.io/)，所有文档均使用 Typora 编写；
 2.  [Mdnice](https://www.mdnice.com/)：Markdown 转微信格式；
 3.  [路过图床](https://imgchr.com/)：免费图床；
+4.  [Docsify](https://docsify.js.org/#/)：网站搭建工具；
