@@ -1,15 +1,16 @@
--   [主页](/)
--   联系我
-    -   [Github](https://github.com/cunyu1943)
-    -   [Gitee](https://gitee.com/cunyu1943)
-    -   [CSDN](https://blog.csdn.net/github_39655029)
-    -   [知乎](https://www.zhihu.com/people/cunyu1943)
-    -   [掘金](https://juejin.cn/user/747323637904519)
-    -   [简书](https://www.jianshu.com/u/c936e85a22d8)
-    -   [牛客](https://www.nowcoder.com/profile/806383223)
--   开源项目
-    -   [CS-Docs](https://github.com/cunyu1943/CS-Docs)
-    -   [amazing-books](https://github.com/cunyu1943/amazing-books)
-    -   [amazing-websites](https://github.com/cunyu1943/amazing-websites)
-    -   [amazing-softwares](https://github.com/cunyu1943/amazing-softwares)
--   [友情链接](docs/about/friends.md)
+-   [🏠 主页](/)
+-   💬 联系我
+    -   [🥇Github](https://github.com/cunyu1943)
+    -   [🥇Gitee](https://gitee.com/cunyu1943)
+    -   [🥇CSDN](https://blog.csdn.net/github_39655029)
+    -   [🥇知乎](https://www.zhihu.com/people/cunyu1943)
+    -   [🥇掘金](https://juejin.cn/user/747323637904519)
+    -   [🥇简书](https://www.jianshu.com/u/c936e85a22d8)
+    -   [🥇牛客](https://www.nowcoder.com/profile/806383223)
+-   💯 开源项目
+    -   [👨‍💻 CS-Docs](https://github.com/cunyu1943/CS-Docs)
+    -   [📖 amazing-books](https://github.com/cunyu1943/amazing-books)
+    -   [🌐 amazing-websites](https://github.com/cunyu1943/amazing-websites)
+    -   [🔨 amazing-softwares](https://github.com/cunyu1943/amazing-softwares)
+-   [🥂 友情链接](docs/about/friends.md)
+
