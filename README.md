@@ -1,4 +1,4 @@
-> # 关于
+# 关于
 
 
 💯 本仓库主要用于记录自己学习过程中的思考，并力图构建一个完善的知识体系，便于后续复习巩固！
@@ -13,63 +13,60 @@
 
 
 
-<div align="center"><img src ="cs-docs.png"></div>
+# ☕ Java
 
-
-> # ☕ Java
-
-### 教女朋友学 Java
+## 教女朋友学 Java
 
 -    [搭建 Java 开发环境](https://t.1yb.co/ixeP)
 -   [玩转 IDEA](https://t.1yb.co/iDSv)
 
-### 知识点总结
+## 知识点总结
 
 -   [Java 基础知识总结](https://t.1yb.co/iDTW)
 -   [JVM 面试必知必会](https://t.1yb.co/ixfd)
 -   [Spring 面试知识点总结](https://t.1yb.co/ixdi)
 
-> # 🐍 Python
+# 🐍 Python
 
-### 交女朋友学 Python
+## 教女朋友学 Python
 
 -   [Python 简介](https://t.1yb.co/ixaI)
 -   [玩转 Pycharm](https://t.1yb.co/ixaD)
 -   [语言元素](https://t.1yb.co/ixat)
 
-## 📶 计算机网络
+# 📶 计算机网络
 
 -   [计算机网络面试高频知识点](https://t.1yb.co/iqLO)
 
-## 💽 数据库
+# 💽 数据库
 
 -   [MySQL 面试知识点总结](https://t.1yb.co/ixcH)
 
 ## 🛠 工具教程
 
-### 博客篇
+## 博客篇
 
 -   [从 0 到 1 搭建自己的 Halo 博客](https://t.1yb.co/ixet)
 
-### 软件篇
+## 软件篇
 
 -   [十分钟入门 Markdown 写作](https://t.1yb.co/ixcL)
 -   [利用 Github 搭建自己的免费图床](https://t.1yb.co/ixcs)
 -   [Gitee + Typora，搭建自己的专属图床](https://t.1yb.co/ixcA)
 
-### 系统篇
+## 系统篇
 
-#### Windows
+### Windows
 
 -   [如何制作 U 盘启动盘](https://t.1yb.co/iDUy)
 -   [手把手教你安装 Windows 系统](https://t.1yb.co/iDUf)
 -   [如何优雅的使用 Windows 10](https://t.1yb.co/iDV1)
 
-#### macOS
+### macOS
 
-#### Linux
+### Linux
 
-## ✨ 瞎折腾
+# ✨ 瞎折腾
 
 
 
@@ -77,9 +74,9 @@
 -   [导航页升级，用起来更爽了！](https://t.1yb.co/ixc1)
 -   [看了这三个 Github 项目，让你的效率翻倍](https://t.1yb.co/ixch)
 
-## 📞 联系我
+# 📞 联系我
 
-### 📟 公众号
+## 📟 公众号
 
 >   名称：**村雨遥**，微信号：**cunyu1943**
 
@@ -87,13 +84,13 @@
 
 <div align="center"><img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" style="zoom:50%;" /></div>
 
-###   💬 个人微信
+##   💬 个人微信
 
 >   昵称：**K**，微信号：**cunyu1024**
 
 <div align="center"><img src="wechat.gif" style="zoom:50%;" /></div>
 
-###  🍟其他平台
+##  🍟其他平台
 
 -   📌 **Github@村雨遥**：https://github.com/cunyu1943
 -   📌 **CSDN@村雨遥**：https://blog.csdn.net/github_39655029
@@ -106,7 +103,7 @@
 
 
 
-## 💰 支持赞助
+# 💰 支持赞助
 
 熬夜不易，觉得有所帮助的朋友可以赏杯咖啡，哈哈，让我更有动力更新下去！
 
@@ -120,9 +117,8 @@
 
 [![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://github.com/cunyu1943/zero2hero/blob/main/LICENSE)
 
-## 🍋 特别致谢
+# 🍋 特别致谢
 
 1.  [Typora](https://typora.io/)，所有文档均使用 Typora 编写；
 2.  [Mdnice](https://www.mdnice.com/)：Markdown 转微信格式；
 3.  [路过图床](https://imgchr.com/)：免费图床；
->>>>>>> 147104c1a0366fd84dbb8b6c9c0608684367f537
