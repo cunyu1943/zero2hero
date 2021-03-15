@@ -13,5 +13,5 @@
     -   [🌐 amazing-websites](https://github.com/cunyu1943/amazing-websites)
     -   [🔨 amazing-softwares](https://github.com/cunyu1943/amazing-softwares)
 -   [🥂 友情链接](docs/about/friends.md)
--   [关于我](docs/about/me.md)
+-   [👨‍💻 关于我](docs/about/me.md)
 
