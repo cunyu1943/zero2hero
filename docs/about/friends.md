@@ -22,11 +22,11 @@
 
 # 📃 友链申请
 
-与我[ 联系 ](https://cunyu1943.site/CS-Docs/#/docs/about/me)或者 在本页面右下角 [OPEN CHAT](https://gitter.im/cunyu1943/cs-docs) 留言您的友链信息并 @cunyu1943，格式如下：
+与我[ 联系 ](https://cunyu1943.site/cs-docs/#/docs/about/me)或者 在本页面右下角 [OPEN CHAT](https://gitter.im/cunyu1943/cs-docs) 留言您的友链信息并 @cunyu1943，格式如下：
 
 > * 昵称：CS-Docs | 公众号：村雨遥
 > * 头像：https://gitee.com/cunyu1943/images/raw/master/blogpic/avatar.png
-> * 主页：[https://cunyu1943.github.io/CS-Docs](https://cunyu1943.github.io/CS-Docs)
+> * 主页：[https://cunyu1943.github.io/cs-docs](https://cunyu1943.github.io/cs-docs)
 > * 说明：吾生也有涯，而知也无涯。
 
 🎈 申请前请先添加本站 

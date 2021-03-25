@@ -8,7 +8,7 @@
     -   [🥇简书](https://www.jianshu.com/u/c936e85a22d8)
     -   [🥇牛客](https://www.nowcoder.com/profile/806383223)
 -   💯 开源项目
-    -   [👨‍💻 CS-Docs](https://github.com/cunyu1943/CS-Docs)
+    -   [👨‍💻 CS-Docs](https://github.com/cunyu1943/cs-docs)
     -   [📖 amazing-books](https://github.com/cunyu1943/amazing-books)
     -   [🌐 amazing-websites](https://github.com/cunyu1943/amazing-websites)
     -   [🔨 amazing-softwares](https://github.com/cunyu1943/amazing-softwares)
