@@ -7,6 +7,14 @@
 
 ❗ 本仓库遵循 CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享） 协议，转载请注明出处，不得用于商业目的。
 
+>   🎈 持续更新中 ~
+
+我的其他项目，欢迎 **Star** 收藏：
+
+| amazing-softwares                                            | amazing-websites                                             | amazing-books                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![amazing-softwares](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-softwares&theme=dark)](https://github.com/cunyu1943/cs-docs) | [![amazing-websites](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-websites&theme=dark)](https://github.com/cunyu1943/amazing-websites) | [![amazing-books](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-books&theme=dark)](https://github.com/cunyu1943/amazing-books) |
+
 
 
 💖 所有文章的汇总如下：https://www.yuque.com/cunyu1943/rookiefly
