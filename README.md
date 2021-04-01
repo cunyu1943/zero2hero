@@ -4,6 +4,10 @@
 
 <div align="center"><img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" style="zoom:50%;" /></div>
 
+此外我还建立了交流群，方便大家一起交流，在这里你可以聊编程、聊生活、聊工作……，还有免费编程书籍获取，都在群里，赶紧来加入吧！
+
+**加群方式**：关注公众号 **村雨遥**，回复 **加群** 即可。
+
 🙏 由于个人水平有限，仓库中的知识点主要包括个人原创、读书笔记、书籍阅读笔记、博客、视频等，非原创内容都尽量标明了原出处！对于还是有遗漏的部分或发现文章错误及排版问题，还请一定 issue 或 pr 提出！
 
 ❗ 本仓库遵循 CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享） 协议，转载请注明出处，不得用于商业目的。
@@ -24,12 +28,12 @@
 
 ## 🐶 Java 修炼之路
 
--    [Java 开发环境搭建](docs/Java/Java修炼/1.HelloWorld.md)
--   [玩转 IDEA](docs/Java/Java修炼/2.使用IDEA进行Java开发.md)
+-    [Java 开发环境搭建](https://t.1yb.co/ixeP)
+-   [玩转 IDEA](https://t.1yb.co/iDSv)
 
 ## 🐱 剑指 Java
 
--   Java [基础知识总结]()
+-   [Java 基础知识总结](https://t.1yb.co/iDTW)
 -   [JVM 面试必知必会](https://t.1yb.co/ixfd)
 -   [Spring 面试知识点总结](https://t.1yb.co/ixdi)
 
