@@ -1,7 +1,8 @@
 # 👇 关于
 
+💯 本仓库主要用于记录自己学习过程中的思考，并力图构建一个完善的知识体系，便于后续复习巩固！文章优先发布于公众号，仓库整理可能会有滞后，为了及时获取最新文章，强烈建议大家关注！
 
-💯 本仓库主要用于记录自己学习过程中的思考，并力图构建一个完善的知识体系，便于后续复习巩固！
+<div align="center"><img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" style="zoom:50%;" /></div>
 
 🙏 由于个人水平有限，仓库中的知识点主要包括个人原创、读书笔记、书籍阅读笔记、博客、视频等，非原创内容都尽量标明了原出处！对于还是有遗漏的部分或发现文章错误及排版问题，还请一定 issue 或 pr 提出！
 
@@ -19,16 +20,14 @@
 
 💖 所有文章的汇总如下：https://www.yuque.com/cunyu1943/rookiefly
 
-
-
 # ☕ Java
 
-## 🐶 教女朋友学 Java
+## 🐶 Java 修炼之路
 
--    [搭建 Java 开发环境](docs/Java/教女朋友学Java/1.HelloWorld.md)
--   [玩转 IDEA](docs/Java/教女朋友学Java/2.使用IDEA进行Java开发.md)
+-    [Java 开发环境搭建](docs/Java/Java修炼/1.HelloWorld.md)
+-   [玩转 IDEA](docs/Java/Java修炼/2.使用IDEA进行Java开发.md)
 
-## 🐱 知识点总结
+## 🐱 剑指 Java
 
 -   Java [基础知识总结]()
 -   [JVM 面试必知必会](https://t.1yb.co/ixfd)
@@ -36,7 +35,7 @@
 
 # 🐍 Python
 
-## 🍏 教女朋友学 Python
+## 🍏 Python 养成记
 
 -   [Python 简介](https://t.1yb.co/ixaI)
 -   [玩转 Pycharm](https://t.1yb.co/ixaD)
@@ -50,7 +49,7 @@
 
 -   [MySQL 面试知识点总结](https://t.1yb.co/ixcH)
 
-# 🔨 工具教程
+# 🔨 效率为王
 
 ## 🚗 博客篇
 
