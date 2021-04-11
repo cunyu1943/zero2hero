@@ -28,30 +28,29 @@
 
 ## 🐶 Java 修炼之路
 
--    [Java 开发环境搭建](https://t.1yb.co/ixeP)
--   [玩转 IDEA](https://t.1yb.co/iDSv)
+-    [NO 1：Java 开发环境搭建](https://t.1yb.co/ixeP)
+-   [NO 2：玩转 IDEA](https://t.1yb.co/iDSv)
+-   [Java 反射机制详解：入门、使用、实例](https://t.1yb.co/mkmO)
 
 ## 🐱 剑指 Java
 
 -   [Java 基础知识总结](https://t.1yb.co/iDTW)
 -   [JVM 面试必知必会](https://t.1yb.co/ixfd)
 -   [Spring 面试知识点总结](https://t.1yb.co/ixdi)
+-   [计算机网络面试高频知识点](https://t.1yb.co/iqLO)
+-   [MySQL 面试知识点总结](https://t.1yb.co/ixcH)
+
+# 🎉 实战训练场
+
+-   [Java 版学生成绩管理系统，附源码！](https://t.1yb.co/mknj)
 
 # 🐍 Python
 
 ## 🍏 Python 养成记
 
--   [Python 简介](https://t.1yb.co/ixaI)
--   [玩转 Pycharm](https://t.1yb.co/ixaD)
--   [语言元素](https://t.1yb.co/ixat)
-
-# 📶 计算机网络
-
--   [计算机网络面试高频知识点](https://t.1yb.co/iqLO)
-
-# 💽 数据库
-
--   [MySQL 面试知识点总结](https://t.1yb.co/ixcH)
+-   [NO 1：Python 简介](https://t.1yb.co/ixaI)
+-   [NO 2：玩转 Pycharm](https://t.1yb.co/ixaD)
+-   [NO 3：语言元素](https://t.1yb.co/ixat)
 
 # 🔨 效率为王
 
@@ -83,6 +82,7 @@
 
 -   [怒肝通宵，导航页上线！](https://t.1yb.co/ixc6)
 -   [导航页升级，用起来更爽了！](https://t.1yb.co/ixc1)
+-   [这么多免费编程资源，你还学得动么](https://t.1yb.co/mkn7)
 -   [看了这三个 Github 项目，让你的效率翻倍](https://t.1yb.co/ixch)
 
 # 📞 联系我
