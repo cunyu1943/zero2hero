@@ -28,8 +28,10 @@
 
 ## 🐶 Java 修炼之路
 
--    [NO 1：Java 开发环境搭建](https://t.1yb.co/ixeP)
--   [NO 2：玩转 IDEA](https://t.1yb.co/iDSv)
+-    [No 1：Java 开发环境搭建](https://t.1yb.co/mQOP)
+-   [No 2：玩转 IDEA](https://t.1yb.co/mQOR)
+-   [No 3. 变量与数据结构](https://t.1yb.co/mQOQ)
+-   [No 4. 操作符](https://t.1yb.co/mQOX)
 -   [Java 反射机制详解：入门、使用、实例](https://t.1yb.co/mkmO)
 
 ## 🐱 剑指 Java
@@ -63,6 +65,7 @@
 -   [十分钟入门 Markdown 写作](https://t.1yb.co/ixcL)
 -   [利用 Github 搭建自己的免费图床](https://t.1yb.co/ixcs)
 -   [Gitee + Typora，搭建自己的专属图床](https://t.1yb.co/ixcA)
+-   [快！阿里云盘 PC 客户端内测来了：颜值超高！](https://t.1yb.co/mQP0)
 
 ## 🚙 系统篇
 
